@@ -132,3 +132,17 @@ tmp/
 test_output/
 test_reports/
 .coverage_html/
+
+# Claude Flow system files
+.claude-flow/
+.claude-flow/metrics/
+system-metrics.json
+
+# Swarm database files
+.swarm/
+*.db
+*.db-shm
+*.db-wal
+
+# GitHub workflows (optional - can be managed separately)
+# .github/workflows/
