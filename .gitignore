@@ -144,5 +144,10 @@ system-metrics.json
 *.db-shm
 *.db-wal
 
+# Private application files (NOT FOR PUBLIC REPO)
+CODEX_FUND_APPLICATION.md
+*APPLICATION*
+*PRIVATE*
+
 # GitHub workflows (optional - can be managed separately)
 # .github/workflows/
